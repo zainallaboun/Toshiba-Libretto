@@ -13,7 +13,7 @@ toshiba and existed from 1996-2000 and then later in 2005 and again in 2010.
 
 - As for the GPU, the Libretto could dsiplay a total of 65, 536 colors at once and provided a rapid-speed graphics accelerator.
 
-# Dell Inspiron 13 2-in-1:
+# 💿 Dell Inspiron 13 2-in-1 📼:
 
 ![51ntwY+GaSL](https://user-images.githubusercontent.com/123292242/216784657-f2524388-b15f-465a-8095-72b88003324c.jpg)
 >Now I will be comparing the Libretto 20 with the Dell Inspiron 13 2-in-1 which is a touchscreen, modern-day laptop. The inspiron 13 2-in-1 can be folded and turned into a touchscreen ipad.
