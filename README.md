@@ -25,3 +25,10 @@ toshiba and existed from 1996-2000 and then later in 2005 and again in 2010.
 - It has 8 GB of RAM (with a max of 16 GB) and it can store 512 GB. 
 
 - As for the GPU, it has a UHD Graphics 620 with shared graphics memory.
+
+## Inspiron vs Libretto:
+
+| Inspiron      | Libretto      | 
+| ------------- |:-------------:| 
+| Overall, faster and more convenient. The graphics and quality are much better and the storage is way higher. The touchscreen aspect is also very efficient and is not seen at all with the Libretto. The Inspiron is quite modern and allows us to do way more things than the Libretto. The graphics and screen display itself is very notable.| Although this laptop isn't as efficient or fast. It is good for the purpose of writing only, considering that the graphics aren't as great and it has smaller storage. I'd like to mention that the Libretto is lighter than the Inspiron which is a benefit. On a more emotional level, the Libretto, although it isn't as efficient, holds a more nostalgic feeling and takes us back in time.| 
+
