@@ -8,3 +8,8 @@ toshiba and existed from 1996-2000 and then later in 2005 and again in 2010.
 Features of the Libretto 20:
 
 - It weighed 840 grams and was one third the size of an A4 paper. It's measurments were 210mm x 115mm x 34mm and ran using Windows 95. 
+
+- The CPU was equal to a 75 MHz DX4 processor and it had 8 MB of memory. This memory could be increased to a total of 20 MB.
+
+- As for the GPU, the Libretto could dsiplay a total of 65, 536 colors at once and provided a rapid-speed graphics accelerator.
+
