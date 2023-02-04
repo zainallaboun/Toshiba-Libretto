@@ -32,3 +32,9 @@ toshiba and existed from 1996-2000 and then later in 2005 and again in 2010.
 | ------------- |:-------------:| 
 | Overall, faster and more convenient. The graphics and quality are much better and the storage is way higher. The touchscreen aspect is also very efficient and is not seen at all with the Libretto. The Inspiron is quite modern and allows us to do way more things than the Libretto. The graphics and screen display itself is very notable.| Although this laptop isn't as efficient or fast. It is good for the purpose of writing only, considering that the graphics aren't as great and it has smaller storage. I'd like to mention that the Libretto is lighter than the Inspiron which is a benefit. On a more emotional level, the Libretto, although it isn't as efficient, holds a more nostalgic feeling and takes us back in time.| 
 
+## Sources:
+>Here you will find the sources I used that helped me create this page 🥳
+
+[IPSJ Computer Museum](https://museum.ipsj.or.jp/en/computer/personal/0070.html) 
+
+[Dell](https://www.dell.com/ae/p/inspiron-13-7306-2-in-1-laptop/pd) 
